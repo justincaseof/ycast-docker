@@ -1,3 +1,13 @@
+IntergalacticFM:
+  Main: http://radio.intergalactic.fm:80/2
+  CBS: http://radio.intergalactic.fm:80/1
+  DreamMachine: http://radio.intergalactic.fm:80/3
+
+Jungletrain:
+  JungleTrain#1: http://stream1.jungletrain.net:8000/
+  JungleTrain#2: http://stream6.jungletrain.net:8000/
+  JungleTrain#3: http://stream5.jungletrain.net:8000/
+
 Electronic:
   Deep House Lounge: http://198.15.94.34:8006
   Ibiza Sonica: http://s1.sonicabroadcast.com:7005/stream
